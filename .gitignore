@@ -2,6 +2,10 @@
 ## Eclipse
 #################
 
+DerivedDataCache/
+Intermediate/
+Saved/
+
 *.pydevproject
 .project
 .metadata
